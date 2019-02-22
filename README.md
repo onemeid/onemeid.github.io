@@ -1,32 +1,24 @@
-# YAX-Coming-soon-Jekyll-Template
-Free Bootstrap HTML5 CSS3 Responsive Coming soon  Jekyll template
+# OneMe Identity
+A path to self-sovereign identity.
 
-Designed by : Ilya B.  
-url: https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template  
+## Your digital identity is broken.
 
-Converted PSD to HTML/CSS by:  
-Morteza Aghili  
-bio: http://mortezaaghili.github.io/  
+The way current IT systems create and manage your identity is siloed and fragmented. We have separate credentials for every service we use -- from insurance, banking, vehicle registration, to emails -- yet we often use the same set of passwords for each of these hundreds of accounts. 
 
-Adpated to Jekyll by [yonojoy](https://github.com/yonojoy)
+Each part of your fragmented identity is kept within servers containing millions of other identities, an attractive target for both hacking and misuse.
 
-## Usage
-Edit `index.md` to contain your message.
+You retain no control over your identity, and companies spend millions maintaining and securing systems while regularly getting hit by privacy & fraud complaints, partner interoperability, and customer onboarding issues.
 
-Edit `_config.yml` and add the following params:
+There has to be a better way.
 
-* `countdown` to contain the target date in GMT/UTC
-* `owner` to contain infos about the site owner.
+## There is a better way.
 
-That's it.
+OneMe Identity defragments your identity. It allows a user’s multiple identities to be merged securely between organizations.
 
-## Installation
+OneMe Identity is a decentralized identity management solution. It uses blockchain to ensure users maintain primary control of their identity.
 
-Requires [Jekyll](http://jekyllrb.com/) 3+. 
+OneMe Identity simplifies KYC requirements. It allows an organization to easily onboard customers and reduce costs by collaborating within an identity consortium.
 
-If you are creating a new Jekyll site using Skinny Bones following these steps:
+OneMe Identity offers advanced authentication techniques. The solution includes multi-factor authentication with facial biometrics, fingerprints -- all verified on a private blockchain. 
 
-1. Download and unzip.
-2. Run `bundle install` to install all dependencies 
-3. Update `_config.yml` and `index.md` as described above.
-
+OneMe Identity - A Blocksphere Company
