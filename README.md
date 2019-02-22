@@ -1,7 +1,7 @@
 # OneMe Identity
 A path to self-sovereign identity.
 
-## Your digital identity is broken.
+## Your digital identity is broken
 
 The way current IT systems create and manage your identity is siloed and fragmented. We have separate credentials for every service we use -- from insurance, banking, vehicle registration, to emails -- yet we often use the same set of passwords for each of these hundreds of accounts. 
 
@@ -11,7 +11,7 @@ You retain no control over your identity, and companies spend millions maintaini
 
 There has to be a better way.
 
-## There is a better way.
+## There is a better way
 
 OneMe Identity defragments your identity. It allows a user’s multiple identities to be merged securely between organizations.
 
